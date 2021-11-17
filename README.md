@@ -1,4 +1,4 @@
 # Game-SquidGame
-Welcome to the small project made in python on a command line game on the Squid Game universe
+Bienvenue sur le petit projet réalisé en python sur un jeu en ligne de commande sur l'univers de Squid Game
 
-Good luck to you to win
+Bonne chance à vous de gagner
